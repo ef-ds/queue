@@ -52,7 +52,6 @@ Output:
 Also refer to the [integration](integration_test.go) and [API](api_test.go) tests.
 
 
-
 ## Tests
 Besides having 100% code coverage, queue has an extensive set of [unit](unit_test.go), [integration](integration_test.go) and [API](api_test.go) tests covering all happy, sad and edge cases.
 
